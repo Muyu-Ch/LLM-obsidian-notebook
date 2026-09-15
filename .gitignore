@@ -1,0 +1,8 @@
+# Obsidian 的本地配置、主题和插件（体积大且可重新下载）
+.obsidian/
+
+# Claude Code 的本地权限设置（含本机绝对路径）
+.claude/settings.local.json
+
+# macOS 索引文件
+.DS_Store
